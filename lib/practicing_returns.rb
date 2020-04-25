@@ -1,4 +1,4 @@
-require "pry"
+
 
 def hello(array)
   i = 0 
@@ -8,4 +8,3 @@ def hello(array)
   
 end 
 end 
-binding.pry
